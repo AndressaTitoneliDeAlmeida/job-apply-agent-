@@ -1,1 +1,17 @@
+cargos:
+  - nome: "Gestora de Projetos Marketing"
+    termos:
+      - "project manager marketing"
+      - "coordenador de marketing"
+      - "gestor de marketing"
+    remoto: true
+    score_minimo: 75
+    curriculo: "curriculo_marketing.pdf"
 
+  - nome: "Customer Success"
+    termos:
+      - "customer success"
+      - "cs manager"
+    remoto: true
+    score_minimo: 70
+    curriculo: "curriculo_cs.pdf"
